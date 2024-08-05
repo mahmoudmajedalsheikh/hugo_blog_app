@@ -1,0 +1,13 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Mahmoud Alsheikh Blog'
+
+paginate = 2
+
+[params]
+  description = "The fastest blog"
+  dateFormat = "Jan 2, 2006"
+
+[taxonomies]
+  category = "categories"
+  author = "authors"

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mahmoud Majed on Mahmoud Alsheikh Blog</title>
+    <link>http://localhost:1313/authors/mahmoud-majed/</link>
+    <description>Recent content in Mahmoud Majed on Mahmoud Alsheikh Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Aug 2024 23:05:16 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/mahmoud-majed/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First_post</title>
+      <link>http://localhost:1313/first_post-copy-3/</link>
+      <pubDate>Sun, 04 Aug 2024 23:05:16 +0300</pubDate>
+      <guid>http://localhost:1313/first_post-copy-3/</guid>
+      <description>Test Content</description>
+    </item>
+    <item>
+      <title>First_post</title>
+      <link>http://localhost:1313/first_post-copy-4/</link>
+      <pubDate>Sun, 04 Aug 2024 23:05:16 +0300</pubDate>
+      <guid>http://localhost:1313/first_post-copy-4/</guid>
+      <description>Test Content</description>
+    </item>
+    <item>
+      <title>First_post</title>
+      <link>http://localhost:1313/first_post-copy/</link>
+      <pubDate>Sun, 04 Aug 2024 23:05:16 +0300</pubDate>
+      <guid>http://localhost:1313/first_post-copy/</guid>
+      <description>Test Content</description>
+    </item>
+    <item>
+      <title>First_post</title>
+      <link>http://localhost:1313/first_post/</link>
+      <pubDate>Sun, 04 Aug 2024 23:05:16 +0300</pubDate>
+      <guid>http://localhost:1313/first_post/</guid>
+      <description>Test Content</description>
+    </item>
+    <item>
+      <title>Third Post</title>
+      <link>http://localhost:1313/first_post-copy-2/</link>
+      <pubDate>Sun, 04 Aug 2024 23:05:16 +0300</pubDate>
+      <guid>http://localhost:1313/first_post-copy-2/</guid>
+      <description>🔭 I’m currently working on lms&#xA;🌱 I’m currently learning React NextJS&#xA;👯 I’m looking to collaborate on lms&#xA;🤝 I’m looking for help with lms&#xA;👨‍💻 All of my projects are available at https://github.com/mahmoudmajedalsheikh&#xA;📝 I regularly write articles on https://github.com/mahmoudmajedalsheikh&#xA;💬 Ask me about React NextJS&#xA;📫 How to reach me mahmoudmajed404@gmail.com&#xA;📄 Know about my experiences https://github.com/mahmoudmajedalsheikh&#xA;🔭 I’m currently working on lms&#xA;🌱 I’m currently learning React NextJS</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Css on Mahmoud Alsheikh Blog</title>
+    <link>http://localhost:1313/categories/css/</link>
+    <description>Recent content in Css on Mahmoud Alsheikh Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Aug 2024 23:05:16 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/css/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First_post</title>
+      <link>http://localhost:1313/first_post-copy-4/</link>
+      <pubDate>Sun, 04 Aug 2024 23:05:16 +0300</pubDate>
+      <guid>http://localhost:1313/first_post-copy-4/</guid>
+      <description>Test Content</description>
+    </item>
+  </channel>
+</rss>
